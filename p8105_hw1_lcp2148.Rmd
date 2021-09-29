@@ -30,7 +30,6 @@ hw1_df = tibble(
 )
 ```
 
-
 Now I am trying to take the mean of each variable in the data frame. 
 
 ```{r means}
