@@ -1,0 +1,6 @@
+---
+title: "Homework 1"
+author: "Lydia Parr lcp2148"
+date: 2019-09-29
+output: github_document
+---
